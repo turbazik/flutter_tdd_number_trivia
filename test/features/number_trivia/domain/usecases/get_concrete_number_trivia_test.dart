@@ -18,7 +18,7 @@ void main() {
   });
 
   final tNumber = 1;
-  final tNumberTrivia = NumberTrivia('test', 1);
+  final tNumberTrivia = NumberTrivia(number: 1, text: 'test');
 
   test(
     'should get trivia for the number from the repository',
