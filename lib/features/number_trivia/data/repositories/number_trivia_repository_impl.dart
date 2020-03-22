@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutterapp/core/error/exception.dart';
 import 'package:flutterapp/core/error/failures.dart';
-import 'package:flutterapp/core/platform/network_info.dart';
+import 'package:flutterapp/core/network/network_info.dart';
 import 'package:flutterapp/features/number_trivia/data/datasources/number_trivia_local_data_source.dart';
 import 'package:flutterapp/features/number_trivia/data/datasources/number_trivia_remote_data_source.dart';
 import 'package:flutterapp/features/number_trivia/domain/entities/number_trivia.dart';
