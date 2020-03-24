@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:flutter/cupertino.dart';
+import 'package:meta/meta.dart';
 import 'package:flutterapp/core/error/exception.dart';
 import 'package:flutterapp/features/number_trivia/data/models/number_trivia_model.dart';
 import 'package:http/http.dart';

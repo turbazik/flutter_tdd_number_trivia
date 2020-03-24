@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:meta/meta.dart';
 import 'package:flutterapp/core/error/failures.dart';
 import 'package:flutterapp/core/usecases/usecase.dart';
 import 'package:flutterapp/features/number_trivia/domain/entities/number_trivia.dart';

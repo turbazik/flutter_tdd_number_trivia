@@ -1,4 +1,4 @@
-import 'package:flutter/cupertino.dart';
+import 'package:meta/meta.dart';
 import 'package:flutterapp/core/error/exception.dart';
 import 'package:flutterapp/core/error/failures.dart';
 import 'package:flutterapp/core/network/network_info.dart';
